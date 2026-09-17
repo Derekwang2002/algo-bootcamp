@@ -1,0 +1,162 @@
+﻿Name,Carl's,Date,Level,Minutes,Review Recommendation,Space Complexity,Status,Tags,Time Complexity,URL
+209. Minimum Size Subarray Sum,,Jan 20,,20,✅ Good job,,Done,Array,,
+59. Spiral Matrix,,Jan 20,,20,✅ Good job,,Done,Array,,
+KamaCoder 58. 区间和,,Jan 23,,30,✅ Good job,,Done,"Array, PrefixSum",,
+KamaCoder 44. 开发商购买土地,,Jan 23,,30,✅ Good job,,Done,"Array, PrefixSum",,
+203. Remove Linked List Elements,,Jan 24,,20,✅ Good job,,Done,LinkedList,,
+707. Design Linked List,,Jan 24,,30,✅ Good job,,Done,LinkedList,,
+206. Reverse Linked List,,Jan 25,,40,✅ Good job,,Done,"DoublePointer, LinkedList",,
+24. Swap Nodes in Pairs,,Jan 25,,35,✅ Good job,,Done,LinkedList,,
+19. Remove Nth Node From End of List,,Jan 26,,25,✅ Good job,,Done,"DoublePointer, LinkedList",,
+142. Linked List Cycle II,,Jan 27,Hard,90,🚩 Recommend Redo (Hard >50m),,Done,"DoublePointer, LinkedList",,
+160. Intersection of Two Linked Lists,,Jan 26,,60,✅ Good job,,Done,"DoublePointer, LinkedList",,
+242. Valid Anagram,,Jan 27,,20,✅ Good job,,Done,HashTable,,
+349. Intersection of Two Arrays,,Jan 27,,20,✅ Good job,,Done,HashTable,,
+202. Happy Number,,Jan 28,,40,✅ Good job,,Done,HashTable,,
+1. Two Sum,,Jan 28,,10,✅ Good job,,Done,HashTable,,
+454. 4sum II,,Jan 28,,40,✅ Good job,,Done,HashTable,,
+383.Ransom Note,,Jan 29,Easy,20,✅ Good job,,Done,HashTable,,https://leetcode.com/problems/ransom-note/description/
+15. ⭐3Sum,,Jan 29,Hard,80,🚩 Recommend Redo (Hard >50m),,Done,"DoublePointer, HashTable",,
+18. 4Sum,,Jan 29,Medium,40,✅ Good job,,Done,"DoublePointer, HashTable",,
+344. Reverse String,,Jan 30,Easy,5,✅ Good job,,Done,"DoublePointer, String",,
+541.Reverse String II,,Jan 30,,30,✅ Good job,,Done,"DoublePointer, String",,
+KamaCoder 54. 替换数字,,Jan 30,Easy,20,✅ Good job,,Done,"DoublePointer, String",,
+151. Reverse Words in a String,,Jan 31,Easy,20,✅ Good job,,Done,"DoublePointer, String",,
+KamaCoder 55. 右旋字符串,,Feb 3,Easy,20,✅ Good job,,Done,String,,https://kamacoder.com/problempage.php?pid=1065
+459. Repeated Substring Pattern,,Feb 5,Hard,60,🚩 Recommend Redo (Hard >50m),,MoreSolution,"KMP, String",,
+232. Implement Queue using Stacks,,Feb 6,,20,✅ Good job,,Done,Stack&Queue,,
+225. Implement Stack using Queues,,Feb 6,,30,✅ Good job,,Done,Stack&Queue,,
+20. Valid Parentheses,,Feb 6,,30,✅ Good job,,Done,Stack&Queue,,
+1047. Remove All Adjacent Duplicates In String,,Feb 6,,20,✅ Good job,,Done,Stack&Queue,,
+150. Evaluate Reverse Polish Notation,,Feb 7,,30,✅ Good job,,Done,Stack&Queue,,
+"239. ⭐Sliding Window Maximum ",,Feb 7,,90,✅ Good job,,Done,"MonoQueue, Stack&Queue",,
+347. Top K Frequent Elements,,Feb 8,,30,✅ Good job,,Done,"PriorityQueue, Stack&Queue",,
+94. Binary Tree Inorder Traversal,,Feb 9,,65,✅ Good job,,Done,BinaryTree,,
+145. Binary Tree Postorder Traversal,,Feb 9,,65,✅ Good job,,Done,BinaryTree,,
+144. Binary Tree Preorder Traversal,,Feb 9,,50,✅ Good job,,Done,BinaryTree,,https://leetcode.com/problems/binary-tree-preorder-traversal/description/
+102. Binary Tree Level Order Traversal,,Feb 9,,30,✅ Good job,,Done,BinaryTree,,
+226. Invert Binary Tree,,Feb 10,,15,✅ Good job,,Done,BinaryTree,,
+101. Symetric tree,,Feb 10,,30,✅ Good job,,Done,BinaryTree,,
+104. Maximum Depth of Binary Tree,,Feb 10,,40,✅ Good job,,Done,BinaryTree,,
+111. Minimum Depth of Binary Tree,,Feb 10,,20,✅ Good job,,Done,BinaryTree,,
+222. Count Complete Tree Nodes,,Feb 10,,20,✅ Good job,,Done,BinaryTree,,
+110. Balanced Binary TreeSolution,,Feb 11,,60,✅ Good job,,Done,BinaryTree,,
+257. Binary Tree Path,,Feb 11,,60,✅ Good job,,Done,BinaryTree,,
+404. Sum of Left Leaves,,Feb 11,,20,✅ Good job,,Done,BinaryTree,,
+513. Find Bottom Left Tree Value,,Feb 11,,30,✅ Good job,,Done,BinaryTree,,
+112.Path Sum,,Feb 12,,20,✅ Good job,,Done,BinaryTree,,
+113. Path Sum II,,Feb 12,,20,✅ Good job,,Done,BinaryTree,,
+"106. ⭐Construct Binary Tree from Inorder and Postorder Traversal ",,Feb 12,,60,✅ Good job,,Done,BinaryTree,,
+105. Construct Binary Tree from Preorder and Inorder Traversal,,Feb 12,,5,✅ Good job,,Done,BinaryTree,,
+654. Maximum Binary Tree,,Feb 13,,20,✅ Good job,,Done,BinaryTree,,
+617. Merge Two Binary Tree,,Feb 13,,20,✅ Good job,,Done,BinaryTree,,
+700. Search in a Binary Search Tree,,Feb 13,,5,✅ Good job,,Done,BinaryTree,,
+98. Validate Binary Search Tree,,Feb 13,,30,✅ Good job,,Done,BinaryTree,,
+530. Minimum Absolute Difference in BST,,Feb 13,,60,✅ Good job,,Done,BinaryTree,,
+503. Find Mode in  Binary Search Tree,,Feb 14,,60,✅ Good job,,Done,BinaryTree,,
+236. ⭐Lowest Common Ancestor(LCA) of a Binary Tree,,Feb 14,,40,✅ Good job,,Done,BinaryTree,,
+"235. Lowest Common Ancestor(LCA) of a Binary Search Tree ",,Feb 14,,15,✅ Good job,,Done,BinaryTree,,
+701. Insert into a Binary Search Tree,,Feb 15,,20,✅ Good job,,Done,BinaryTree,,
+450. ⭐Delete Node in a BST,,Feb 15,,120,✅ Good job,,Done,BinaryTree,,
+669. Trim a Binary Search Tree,https://programmercarl.com/0669.%E4%BF%AE%E5%89%AA%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91.html,Feb 17,Medium,40,✅ Good job,O(h),Done,BinaryTree,O(n),https://leetcode.com/problems/trim-a-binary-search-tree/description/
+108. Convert Sorted Array to Binary Search Tree,https://programmercarl.com/0108.%E5%B0%86%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84%E8%BD%AC%E6%8D%A2%E4%B8%BA%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91.html#%E7%AE%97%E6%B3%95%E5%85%AC%E5%BC%80%E8%AF%BE,Feb 17,Easy,15,✅ Good job,O(h),Done,BinaryTree,O(n),https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/
+538. Convert BST to Greater Tree,https://programmercarl.com/0538.%E6%8A%8A%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E8%BD%AC%E6%8D%A2%E4%B8%BA%E7%B4%AF%E5%8A%A0%E6%A0%91.html#%E6%80%9D%E8%B7%AF,Feb 17,Medium,40,✅ Good job,O(h),Done,BinaryTree,O(n),https://leetcode.com/problems/convert-bst-to-greater-tree/description/
+77. Combinations,https://programmercarl.com/0077.%E7%BB%84%E5%90%88%E4%BC%98%E5%8C%96.html,Feb 18,Medium,60,🚩 Recommend Redo (Medium >40m),O(n),Done,"Backtracking, Math",O(n * 2^n),https://leetcode.com/problems/combinations/description/
+216. Combination Sum III,https://programmercarl.com/0216.%E7%BB%84%E5%90%88%E6%80%BB%E5%92%8CIII.html,Feb 18,Medium,30,✅ Good job,O(n),Done,"Backtracking, Math",O(n * 2^n),https://leetcode.com/problems/combination-sum-iii/
+17. Letter Combinations of a Phone Number,https://programmercarl.com/0017.%E7%94%B5%E8%AF%9D%E5%8F%B7%E7%A0%81%E7%9A%84%E5%AD%97%E6%AF%8D%E7%BB%84%E5%90%88.html,Feb 18,Medium,60,🚩 Recommend Redo (Medium >40m),O(3^m * 4^n),Done,Backtracking,O(3^m * 4^n),https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/
+28.Find the Index of the First Occurrence in a String,,Feb 4,Hard,70,🚩 Recommend Redo (Hard >50m),,Done,"KMP, String",,
+977. Square of Sorted Arrays,,Jan 19,,30,✅ Good job,,Done,Array,,
+27. Remove element,,Jan 19,,15,✅ Good job,,Done,"Array, DoublePointer",,
+704. Binary Search,,Jan 19,,10,✅ Good job,,Done,Array,,
+39. Combination Sum,https://programmercarl.com/0039.%E7%BB%84%E5%90%88%E6%80%BB%E5%92%8C.html#%E6%80%9D%E8%B7%AF,Feb 23,Medium,35,✅ Good job,O(T / m),Done,Backtracking,O(n^(T/m)),https://leetcode.com/problems/combination-sum/description/
+40. Combination Sum II,https://programmercarl.com/0040.%E7%BB%84%E5%90%88%E6%80%BB%E5%92%8CII.html#%E7%AE%97%E6%B3%95%E5%85%AC%E5%BC%80%E8%AF%BE,Feb 23,Medium,35,✅ Good job,O(T / m),Done,"Backtracking, Deduplicate",O(n * 2^n),https://leetcode.com/problems/combination-sum-ii/description/
+131. Palindrome Partitioning,https://programmercarl.com/0131.%E5%88%86%E5%89%B2%E5%9B%9E%E6%96%87%E4%B8%B2.html,Feb 23,Hard,55,🚩 Recommend Redo (Hard >50m),O(n^2),Done,Backtracking,O(n * 2^n),https://leetcode.com/problems/palindrome-partitioning/
+93. Restore IP Addresses,https://programmercarl.com/0093.%E5%A4%8D%E5%8E%9FIP%E5%9C%B0%E5%9D%80.html#%E7%AE%97%E6%B3%95%E5%85%AC%E5%BC%80%E8%AF%BE,Feb 24,Medium,90,🚩 Recommend Redo (Medium >40m),O(n),Review-logic,"Backtracking, Math, String",O(3^4),https://leetcode.com/problems/restore-ip-addresses/description/
+78. Subsets,https://programmercarl.com/0078.%E5%AD%90%E9%9B%86.html#%E7%AE%97%E6%B3%95%E5%85%AC%E5%BC%80%E8%AF%BE,Feb 24,Medium,25,✅ Good job,O(n),Done,Backtracking,O(n * 2^n),https://leetcode.com/problems/subsets/
+90. Subsets II,https://programmercarl.com/0090.%E5%AD%90%E9%9B%86II.html#%E7%AE%97%E6%B3%95%E5%85%AC%E5%BC%80%E8%AF%BE,Feb 24,Medium,15,✅ Good job,O(n),Done,"Backtracking, Deduplicate",O(n * 2^n),https://leetcode.com/problems/subsets-ii/
+491. Non-decreasing Subsequences,https://programmercarl.com/0491.%E9%80%92%E5%A2%9E%E5%AD%90%E5%BA%8F%E5%88%97.html#%E7%AE%97%E6%B3%95%E5%85%AC%E5%BC%80%E8%AF%BE,Feb 25,Medium,35,✅ Good job,O(n),Done,Backtracking,O(n * 2^n),https://leetcode.com/problems/non-decreasing-subsequences/
+46. Permutations,https://programmercarl.com/0046.%E5%85%A8%E6%8E%92%E5%88%97.html#%E7%AE%97%E6%B3%95%E5%85%AC%E5%BC%80%E8%AF%BE,Feb 25,Medium,30,✅ Good job,O(n),Done,Backtracking,O(n * n!),https://leetcode.com/problems/permutations/description/
+47. Permutations II,https://programmercarl.com/0047.%E5%85%A8%E6%8E%92%E5%88%97II.html#%E7%AE%97%E6%B3%95%E5%85%AC%E5%BC%80%E8%AF%BE,Feb 25,Medium,25,✅ Good job,O(n),Done,Backtracking,O(n * n!),https://leetcode.com/problems/permutations-ii/
+51. N-Queens,https://programmercarl.com/0051.N%E7%9A%87%E5%90%8E.html,Feb 26,Hard,,⏳ 尚未计时,,NotStart,Backtracking,,https://leetcode.com/problems/n-queens/description/
+37. Soduko Solver,https://programmercarl.com/0037.%E8%A7%A3%E6%95%B0%E7%8B%AC.html#%E7%AE%97%E6%B3%95%E5%85%AC%E5%BC%80%E8%AF%BE,Feb 26,Hard,,⏳ 尚未计时,,NotStart,Backtracking,,https://leetcode.com/problems/sudoku-solver/
+455.  Assign Cookies,https://programmercarl.com/0455.%E5%88%86%E5%8F%91%E9%A5%BC%E5%B9%B2.html#%E7%AE%97%E6%B3%95%E5%85%AC%E5%BC%80%E8%AF%BE,Feb 26,Easy,15,✅ Good job,O(1),Done,Greedy,O(nlogn),https://leetcode.com/problems/assign-cookies/description/
+376. Wiggle Subsequence,https://programmercarl.com/0376.%E6%91%86%E5%8A%A8%E5%BA%8F%E5%88%97.html#%E7%AE%97%E6%B3%95%E5%85%AC%E5%BC%80%E8%AF%BE,Feb 26,Medium,45,🚩 Recommend Redo (Medium >40m),O(n),Done,"DynamicProgram, Greedy",O(n),https://leetcode.com/problems/wiggle-subsequence/description/
+53. Maximum Subarray,https://programmercarl.com/0053.%E6%9C%80%E5%A4%A7%E5%AD%90%E5%BA%8F%E5%92%8C.html#%E7%AE%97%E6%B3%95%E5%85%AC%E5%BC%80%E8%AF%BE,Feb 26,Medium,20,✅ Good job,O(1),Done,"DynamicProgram, Greedy",O(n),https://leetcode.com/problems/maximum-subarray/description/
+122. Best Time to Buy and Sell Stock II,https://programmercarl.com/0376.%E6%91%86%E5%8A%A8%E5%BA%8F%E5%88%97.html#%E5%85%B6%E4%BB%96%E8%AF%AD%E8%A8%80%E7%89%88%E6%9C%AC,Feb 27,Medium,5,✅ Good job,O(1),Done,"DynamicProgram, Greedy",O(n),https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/
+55. Jump Game,https://programmercarl.com/0055.%E8%B7%B3%E8%B7%83%E6%B8%B8%E6%88%8F.html#%E7%AE%97%E6%B3%95%E5%85%AC%E5%BC%80%E8%AF%BE,Feb 27,Medium,10,✅ Good job,O(1),Done,Greedy,O(n),https://leetcode.com/problems/jump-game/description/
+45. Jump Game II,https://programmercarl.com/0055.%E8%B7%B3%E8%B7%83%E6%B8%B8%E6%88%8F.html#%E7%AE%97%E6%B3%95%E5%85%AC%E5%BC%80%E8%AF%BE,Feb 27,Medium,65,🚩 Recommend Redo (Medium >40m),O(1),Done,Greedy,O(n),https://leetcode.com/problems/jump-game-ii/description/
+1005. Maximize Sum Of Array After K Negations,https://programmercarl.com/1005.K%E6%AC%A1%E5%8F%96%E5%8F%8D%E5%90%8E%E6%9C%80%E5%A4%A7%E5%8C%96%E7%9A%84%E6%95%B0%E7%BB%84%E5%92%8C.html#%E7%AE%97%E6%B3%95%E5%85%AC%E5%BC%80%E8%AF%BE,Feb 27,Easy,30,🚩 Recommend Redo (Easy >20m),O(1),Review-logic,Greedy,O(nlogn),https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/description/
+134. Gas Station,https://programmercarl.com/0134.%E5%8A%A0%E6%B2%B9%E7%AB%99.html#%E7%AE%97%E6%B3%95%E5%85%AC%E5%BC%80%E8%AF%BE,Feb 28,Medium,45,🚩 Recommend Redo (Medium >40m),O(1),Done,Greedy,O(n),https://leetcode.com/problems/gas-station/
+135. Candy,https://programmercarl.com/0135.%E5%88%86%E5%8F%91%E7%B3%96%E6%9E%9C.html#%E7%AE%97%E6%B3%95%E5%85%AC%E5%BC%80%E8%AF%BE,Feb 28,Hard,120,🚩 Recommend Redo (Hard >50m),O(n),Review-logic,Greedy,O(n),https://leetcode.com/problems/candy/description/
+860. Lemonade Change,https://programmercarl.com/0860.%E6%9F%A0%E6%AA%AC%E6%B0%B4%E6%89%BE%E9%9B%B6.html,Feb 28,Easy,20,✅ Good job,O(1),Done,Greedy,O(n),https://leetcode.com/problems/lemonade-change/description/
+406. Queue Reconstruction by Height,https://programmercarl.com/0406.%E6%A0%B9%E6%8D%AE%E8%BA%AB%E9%AB%98%E9%87%8D%E5%BB%BA%E9%98%9F%E5%88%97.html,Feb 28,Medium,50,🚩 Recommend Redo (Medium >40m),O(n),Review-logic,Greedy,O(n^2),https://leetcode.com/problems/queue-reconstruction-by-height/description/
+452. Minimum Number of Arrows to Burst Balloons,https://programmercarl.com/0452.%E7%94%A8%E6%9C%80%E5%B0%91%E6%95%B0%E9%87%8F%E7%9A%84%E7%AE%AD%E5%BC%95%E7%88%86%E6%B0%94%E7%90%83.html,Mar 2,Medium,10,✅ Good job,O(1),Done,Greedy,O(nlogn),https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/description/
+435. Non-overlapping Intervals,https://programmercarl.com/0435.%E6%97%A0%E9%87%8D%E5%8F%A0%E5%8C%BA%E9%97%B4.html,Mar 2,Medium,15,✅ Good job,O(1),Done,Greedy,O(nlogn),https://leetcode.com/problems/non-overlapping-intervals/description/
+763. Partition Labels,http://programmercarl.com/0763.%E5%88%92%E5%88%86%E5%AD%97%E6%AF%8D%E5%8C%BA%E9%97%B4.html,Mar 2,Medium,50,🚩 Recommend Redo (Medium >40m),O(n),Done,"Greedy, String",O(nlogn),https://leetcode.com/problems/partition-labels/description/
+56. Merge Intervals,https://programmercarl.com/0056.%E5%90%88%E5%B9%B6%E5%8C%BA%E9%97%B4.html,Mar 2,Medium,35,✅ Good job,O(n),Done,Greedy,O(n),https://leetcode.com/problems/merge-intervals/description/
+738. Monotone Increasing Digits,https://programmercarl.com/0738.%E5%8D%95%E8%B0%83%E9%80%92%E5%A2%9E%E7%9A%84%E6%95%B0%E5%AD%97.html,Mar 3,Medium,30,✅ Good job,O(n),Done,Greedy,O(n),https://leetcode.com/problems/monotone-increasing-digits/description/
+968. Binary Tree Cameras,https://programmercarl.com/0968.%E7%9B%91%E6%8E%A7%E4%BA%8C%E5%8F%89%E6%A0%91.html#%E7%AE%97%E6%B3%95%E5%85%AC%E5%BC%80%E8%AF%BE,Mar 3,Hard,50,✅ Good job,O(h),Done,"BinaryTree, Greedy",O(n),https://leetcode.com/problems/binary-tree-cameras/description/
+509. Fibonacci Number,https://programmercarl.com/0509.%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91%E6%95%B0.html,Mar 4,Easy,15,✅ Good job,O(n),Done,DynamicProgram,O(n),https://leetcode.com/problems/fibonacci-number/description/
+70. Climbing Stairs,https://programmercarl.com/0070.%E7%88%AC%E6%A5%BC%E6%A2%AF.html,Mar 4,Easy,5,✅ Good job,O(1),Done,DynamicProgram,O(n),https://leetcode.com/problems/climbing-stairs/description/
+746. Min Cost Climbing Stairs,https://programmercarl.com/0746.%E4%BD%BF%E7%94%A8%E6%9C%80%E5%B0%8F%E8%8A%B1%E8%B4%B9%E7%88%AC%E6%A5%BC%E6%A2%AF.html,Mar 4,Easy,10,✅ Good job,O(1),Done,DynamicProgram,O(n),https://leetcode.com/problems/min-cost-climbing-stairs
+62. Unique Paths,https://programmercarl.com/0062.%E4%B8%8D%E5%90%8C%E8%B7%AF%E5%BE%84.html#%E7%AE%97%E6%B3%95%E5%85%AC%E5%BC%80%E8%AF%BE,Mar 4,Medium,20,✅ Good job,O(n),Done,DynamicProgram,O(mn),https://leetcode.com/problems/unique-paths/description/
+63. Unique Paths II,https://programmercarl.com/0063.%E4%B8%8D%E5%90%8C%E8%B7%AF%E5%BE%84II.html#%E7%AE%97%E6%B3%95%E5%85%AC%E5%BC%80%E8%AF%BE,Mar 7,Medium,20,✅ Good job,O(n),Done,DynamicProgram,O(mn),https://leetcode.com/problems/unique-paths-ii/description/
+343. Integer Break,https://programmercarl.com/0343.%E6%95%B4%E6%95%B0%E6%8B%86%E5%88%86.html,Mar 7,Medium,60,🚩 Recommend Redo (Medium >40m),O(1),Done,DynamicProgram,O(n),https://leetcode.com/problems/integer-break/description/
+96. Unique Binary Search Trees,https://programmercarl.com/0096.%E4%B8%8D%E5%90%8C%E7%9A%84%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91.html#%E7%AE%97%E6%B3%95%E5%85%AC%E5%BC%80%E8%AF%BE,Mar 8,Medium,30,✅ Good job,O(n),Done,DynamicProgram,O(n^2),https://leetcode.com/problems/unique-binary-search-trees/description/
+416. Partition Equal Subset Sum,https://programmercarl.com/0416.%E5%88%86%E5%89%B2%E7%AD%89%E5%92%8C%E5%AD%90%E9%9B%86.html#%E7%AE%97%E6%B3%95%E5%85%AC%E5%BC%80%E8%AF%BE,Mar 9,Medium,60,🚩 Recommend Redo (Medium >40m),O(m),Done,"DynamicProgram, Knapsack",O(mn),https://leetcode.com/problems/partition-equal-subset-sum/description/
+1049. Last Stone Weight II,https://programmercarl.com/1049.%E6%9C%80%E5%90%8E%E4%B8%80%E5%9D%97%E7%9F%B3%E5%A4%B4%E7%9A%84%E9%87%8D%E9%87%8FII.html#%E7%AE%97%E6%B3%95%E5%85%AC%E5%BC%80%E8%AF%BE,Mar 10,Medium,5,✅ Good job,O(m),Done,"DynamicProgram, Knapsack",O(mn),https://leetcode.com/problems/last-stone-weight-ii/
+494. Target Sum,https://programmercarl.com/0494.%E7%9B%AE%E6%A0%87%E5%92%8C.html#%E7%AE%97%E6%B3%95%E5%85%AC%E5%BC%80%E8%AF%BE,Mar 10,Medium,45,🚩 Recommend Redo (Medium >40m),O(m),Done,"DynamicProgram, Knapsack",O(mn),https://leetcode.com/problems/target-sum/
+474. Ones and Zeroes,https://programmercarl.com/0474.%E4%B8%80%E5%92%8C%E9%9B%B6.html,Mar 10,Medium,40,✅ Good job,O(mn),Done,"DynamicProgram, Knapsack",O(kmn ),https://leetcode.com/problems/ones-and-zeroes/
+KamaCoder 52. 携带研究材料,https://programmercarl.com/%E8%83%8C%E5%8C%85%E9%97%AE%E9%A2%98%E7%90%86%E8%AE%BA%E5%9F%BA%E7%A1%80%E5%AE%8C%E5%85%A8%E8%83%8C%E5%8C%85.html#%E5%AE%8C%E5%85%A8%E8%83%8C%E5%8C%85,Mar 10,Medium,30,✅ Good job,O(m),Done,"DynamicProgram, Knapsack",O(mn),https://kamacoder.com/problempage.php?pid=1052
+518. Coin Change II,https://programmercarl.com/0518.%E9%9B%B6%E9%92%B1%E5%85%91%E6%8D%A2II.html#%E7%AE%97%E6%B3%95%E5%85%AC%E5%BC%80%E8%AF%BE,Mar 10,Medium,5,✅ Good job,O(m),Done,"DynamicProgram, Knapsack",O(mn),https://leetcode.com/problems/coin-change-ii/description/
+377. Combination Sum IV,https://programmercarl.com/0377.%E7%BB%84%E5%90%88%E6%80%BB%E5%92%8C%E2%85%A3.html,Mar 10,Medium,60,🚩 Recommend Redo (Medium >40m),O(m),Review-logic,"DynamicProgram, Knapsack",O(mn),https://leetcode.com/problems/combination-sum-iv/description/
+KamaCoder 57. 爬楼梯,https://programmercarl.com/0070.%E7%88%AC%E6%A5%BC%E6%A2%AF%E5%AE%8C%E5%85%A8%E8%83%8C%E5%8C%85%E7%89%88%E6%9C%AC.html#%E6%80%9D%E8%B7%AF,Mar 11,Medium,10,✅ Good job,O(m),Done,"DynamicProgram, Knapsack",O(mn),https://kamacoder.com/problempage.php?pid=1067
+322. Coin Change,https://programmercarl.com/0322.%E9%9B%B6%E9%92%B1%E5%85%91%E6%8D%A2.html,Mar 11,Medium,40,✅ Good job,O(m),Done,"DynamicProgram, Knapsack",O(mn),https://leetcode.com/problems/coin-change/description/
+279. Perfect Squares,https://programmercarl.com/0279.%E5%AE%8C%E5%85%A8%E5%B9%B3%E6%96%B9%E6%95%B0.html,Mar 11,Medium,15,✅ Good job,O(m),Done,"DynamicProgram, Knapsack",O(mn),http://leetcode.com/problems/perfect-squares/description/
+139. Word Break,https://programmercarl.com/0139.%E5%8D%95%E8%AF%8D%E6%8B%86%E5%88%86.html,Mar 11,Medium,30,✅ Good job,O(m),Review-Java,"DynamicProgram, Knapsack, String",O(mn),https://leetcode.com/problems/word-break/
+KamaCoder 56. 携带矿石资源,https://programmercarl.com/%E8%83%8C%E5%8C%85%E9%97%AE%E9%A2%98%E7%90%86%E8%AE%BA%E5%9F%BA%E7%A1%80%E5%A4%9A%E9%87%8D%E8%83%8C%E5%8C%85.html#%E5%A4%9A%E9%87%8D%E8%83%8C%E5%8C%85,Mar 11,Medium,10,✅ Good job,O(m),Done,"DynamicProgram, Knapsack",O(kmn ),https://kamacoder.com/problempage.php?pid=1066
+198. House Robber,https://programmercarl.com/0198.%E6%89%93%E5%AE%B6%E5%8A%AB%E8%88%8D.html,Mar 11,Medium,5,✅ Good job,O(1),Done,DynamicProgram,O(n),https://leetcode.com/problems/house-robber/description/
+213. House Robber II,https://programmercarl.com/0213.%E6%89%93%E5%AE%B6%E5%8A%AB%E8%88%8DII.html,Mar 11,Medium,50,🚩 Recommend Redo (Medium >40m),O(1),Done,DynamicProgram,O(n),https://leetcode.com/problems/house-robber-ii/description/
+337. House Robber III,https://programmercarl.com/0337.%E6%89%93%E5%AE%B6%E5%8A%AB%E8%88%8DIII.html,Mar 11,Medium,90,🚩 Recommend Redo (Medium >40m),O(h),Done,DynamicProgram,O(n),https://leetcode.com/problems/house-robber-iii/description/
+121. Best Time to Buy and Sell Stock,https://programmercarl.com/0121.%E4%B9%B0%E5%8D%96%E8%82%A1%E7%A5%A8%E7%9A%84%E6%9C%80%E4%BD%B3%E6%97%B6%E6%9C%BA.html#%E7%AE%97%E6%B3%95%E5%85%AC%E5%BC%80%E8%AF%BE,Mar 12,Easy,20,✅ Good job,O(1),Review-logic,"DynamicProgram, Greedy",O(n),https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
+122. Best Time to Buy and Sell Stock II,https://programmercarl.com/0122.%E4%B9%B0%E5%8D%96%E8%82%A1%E7%A5%A8%E7%9A%84%E6%9C%80%E4%BD%B3%E6%97%B6%E6%9C%BAII%EF%BC%88%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92%EF%BC%89.html#%E7%AE%97%E6%B3%95%E5%85%AC%E5%BC%80%E8%AF%BE,Mar 12,Medium,30,✅ Good job,O(1),Done,"DynamicProgram, Greedy",O(n),https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/
+123. Best Time to Buy and Sell Stock III,https://programmercarl.com/0123.%E4%B9%B0%E5%8D%96%E8%82%A1%E7%A5%A8%E7%9A%84%E6%9C%80%E4%BD%B3%E6%97%B6%E6%9C%BAIII.html,Mar 12,Hard,60,🚩 Recommend Redo (Hard >50m),O(1),Review-logic,DynamicProgram,O(n),https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/
+188. Best Time to Buy and Sell Stock IV,https://programmercarl.com/0647.%E5%9B%9E%E6%96%87%E5%AD%90%E4%B8%B2.html#%E7%AE%97%E6%B3%95%E5%85%AC%E5%BC%80%E8%AF%BE,Mar 12,Hard,20,✅ Good job,O(1),Done,DynamicProgram,O(n),https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/
+309. Best Time to Buy and Sell Stock with Cooldown,https://programmercarl.com/0309.%E6%9C%80%E4%BD%B3%E4%B9%B0%E5%8D%96%E8%82%A1%E7%A5%A8%E6%97%B6%E6%9C%BA%E5%90%AB%E5%86%B7%E5%86%BB%E6%9C%9F.html#%E7%AE%97%E6%B3%95%E5%85%AC%E5%BC%80%E8%AF%BE,Mar 13,Medium,30,✅ Good job,O(1),Done,DynamicProgram,O(n),https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/description/
+714. Best Time to Buy and Sell Stock with Transaction Fee,https://programmercarl.com/0714.%E4%B9%B0%E5%8D%96%E8%82%A1%E7%A5%A8%E7%9A%84%E6%9C%80%E4%BD%B3%E6%97%B6%E6%9C%BA%E5%90%AB%E6%89%8B%E7%BB%AD%E8%B4%B9%EF%BC%88%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92%EF%BC%89.html,Mar 13,Medium,5,✅ Good job,O(1),Done,DynamicProgram,O(n),https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/description/
+300. Longest Increasing Subsequence,https://programmercarl.com/0300.%E6%9C%80%E9%95%BF%E4%B8%8A%E5%8D%87%E5%AD%90%E5%BA%8F%E5%88%97.html#%E7%AE%97%E6%B3%95%E5%85%AC%E5%BC%80%E8%AF%BE,Mar 15,Medium,60,🚩 Recommend Redo (Medium >40m),O(n),Done,DynamicProgram,O(n^2),https://leetcode.com/problems/longest-increasing-subsequence/
+674. Longest Continuous Increasing Subsequence,https://programmercarl.com/0674.%E6%9C%80%E9%95%BF%E8%BF%9E%E7%BB%AD%E9%80%92%E5%A2%9E%E5%BA%8F%E5%88%97.html#%E7%AE%97%E6%B3%95%E5%85%AC%E5%BC%80%E8%AF%BE,Mar 15,Easy,5,✅ Good job,O(1),Done,DynamicProgram,O(n),https://leetcode.com/problems/longest-continuous-increasing-subsequence/description/
+718. Maximum Length of Repeated Subarray,https://programmercarl.com/0718.%E6%9C%80%E9%95%BF%E9%87%8D%E5%A4%8D%E5%AD%90%E6%95%B0%E7%BB%84.html#%E7%AE%97%E6%B3%95%E5%85%AC%E5%BC%80%E8%AF%BE,Mar 15,Medium,20,✅ Good job,O(n),Done,DynamicProgram,O(mn),https://leetcode.com/problems/maximum-length-of-repeated-subarray
+1143. Longest Common Subsequence,https://programmercarl.com/1143.%E6%9C%80%E9%95%BF%E5%85%AC%E5%85%B1%E5%AD%90%E5%BA%8F%E5%88%97.html#%E7%AE%97%E6%B3%95%E5%85%AC%E5%BC%80%E8%AF%BE,Mar 16,Medium,30,✅ Good job,O(mn),Done,DynamicProgram,O(mn),https://leetcode.com/problems/longest-common-subsequence/
+1035. Uncrossed Lines,https://programmercarl.com/1035.%E4%B8%8D%E7%9B%B8%E4%BA%A4%E7%9A%84%E7%BA%BF.html#%E7%AE%97%E6%B3%95%E5%85%AC%E5%BC%80%E8%AF%BE,Mar 17,Medium,1,✅ Good job,O(mn),Done,DynamicProgram,O(mn),https://leetcode.com/problems/uncrossed-lines/
+53. Maximum Subarray,https://programmercarl.com/0053.%E6%9C%80%E5%A4%A7%E5%AD%90%E5%BA%8F%E5%92%8C%EF%BC%88%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92%EF%BC%89.html,Mar 17,Medium,20,✅ Good job,O(1),Done,DynamicProgram,O(n),https://leetcode.com/problems/maximum-subarray/description/
+392. Is Subsequence,https://programmercarl.com/0392.%E5%88%A4%E6%96%AD%E5%AD%90%E5%BA%8F%E5%88%97.html,Mar 17,Easy,20,✅ Good job,O(1),Done,"DoublePointer, DynamicProgram",O(n),https://leetcode.com/problems/is-subsequence/
+115. Distinct Subsequences,https://programmercarl.com/0115.%E4%B8%8D%E5%90%8C%E7%9A%84%E5%AD%90%E5%BA%8F%E5%88%97.html#%E7%AE%97%E6%B3%95%E5%85%AC%E5%BC%80%E8%AF%BE,Mar 19,Hard,30,✅ Good job,O(n),Done,"DynamicProgram, String",O(mn),https://leetcode.com/problems/distinct-subsequences/description/
+583. Delete Operation for Two Strings,https://programmercarl.com/0583.%E4%B8%A4%E4%B8%AA%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%9A%84%E5%88%A0%E9%99%A4%E6%93%8D%E4%BD%9C.html#%E7%AE%97%E6%B3%95%E5%85%AC%E5%BC%80%E8%AF%BE,Mar 19,Medium,5,✅ Good job,O(mn),Done,"DynamicProgram, String",O(mn),https://leetcode.com/problems/delete-operation-for-two-strings/
+72. Edit Distance,https://programmercarl.com/0072.%E7%BC%96%E8%BE%91%E8%B7%9D%E7%A6%BB.html#%E7%AE%97%E6%B3%95%E5%85%AC%E5%BC%80%E8%AF%BE,Mar 19,Medium,45,🚩 Recommend Redo (Medium >40m),O(mn),Review-logic,DynamicProgram,O(mn),https://leetcode.com/problems/edit-distance/description/
+647. Palindromic Substrings,https://programmercarl.com/0647.%E5%9B%9E%E6%96%87%E5%AD%90%E4%B8%B2.html#%E7%AE%97%E6%B3%95%E5%85%AC%E5%BC%80%E8%AF%BE,Mar 19,Medium,50,🚩 Recommend Redo (Medium >40m),O(n),Review-logic,"DoublePointer, DynamicProgram",O(n^2),https://leetcode.com/problems/palindromic-substrings/description/
+516. Longest Palindromic Subsequence,https://programmercarl.com/0516.%E6%9C%80%E9%95%BF%E5%9B%9E%E6%96%87%E5%AD%90%E5%BA%8F%E5%88%97.html#%E7%AE%97%E6%B3%95%E5%85%AC%E5%BC%80%E8%AF%BE,Mar 20,Medium,60,🚩 Recommend Redo (Medium >40m),O(n^2),Done,DynamicProgram,O(n^2),https://leetcode.com/problems/longest-palindromic-subsequence/description/
+739. Daily Temperatures,https://programmercarl.com/0739.%E6%AF%8F%E6%97%A5%E6%B8%A9%E5%BA%A6.html#%E7%AE%97%E6%B3%95%E5%85%AC%E5%BC%80%E8%AF%BE,Mar 20,Medium,20,✅ Good job,O(n),Done,MonotonicStack,O(n),https://leetcode.com/problems/daily-temperatures/
+496. Next Greater Element I,https://programmercarl.com/0496.%E4%B8%8B%E4%B8%80%E4%B8%AA%E6%9B%B4%E5%A4%A7%E5%85%83%E7%B4%A0I.html#%E7%AE%97%E6%B3%95%E5%85%AC%E5%BC%80%E8%AF%BE,Mar 20,Easy,60,🚩 Recommend Redo (Easy >20m),O(n),Done,MonotonicStack,O(m+n),https://leetcode.com/problems/next-greater-element-i/description/
+503. Next Greater Element II,https://programmercarl.com/0503.%E4%B8%8B%E4%B8%80%E4%B8%AA%E6%9B%B4%E5%A4%A7%E5%85%83%E7%B4%A0II.html#%E7%AE%97%E6%B3%95%E5%85%AC%E5%BC%80%E8%AF%BE,Mar 20,Medium,50,🚩 Recommend Redo (Medium >40m),O(n),Done,MonotonicStack,O(n),https://leetcode.com/problems/next-greater-element-ii/description/
+42. Trapping Rain Water,https://leetcode.com/problems/trapping-rain-water/description/,Mar 21,Hard,120,🚩 Recommend Redo (Hard >50m),O(n),Review-logic,"DoublePointer, MonotonicStack",O(n),https://programmercarl.com/0042.%E6%8E%A5%E9%9B%A8%E6%B0%B4.html
+84. Largest Rectangle in Histogram,https://programmercarl.com/0084.%E6%9F%B1%E7%8A%B6%E5%9B%BE%E4%B8%AD%E6%9C%80%E5%A4%A7%E7%9A%84%E7%9F%A9%E5%BD%A2.html#%E7%AE%97%E6%B3%95%E5%85%AC%E5%BC%80%E8%AF%BE,Mar 22,Hard,120,🚩 Recommend Redo (Hard >50m),O(n),Done,"DoublePointer, MonotonicStack",O(n),https://leetcode.com/problems/largest-rectangle-in-histogram/description/
+KamaCoder 98. 可达路径,https://programmercarl.com/kamacoder/0098.%E6%89%80%E6%9C%89%E5%8F%AF%E8%BE%BE%E8%B7%AF%E5%BE%84.html#%E6%8F%92%E6%9B%B2,Mar 24,Medium,40,✅ Good job,O(V + E),Done,GraphTheory,O(V!),https://kamacoder.com/problempage.php?pid=1170
+KamaCoder 99. 计数孤岛,https://programmercarl.com/kamacoder/0099.%E5%B2%9B%E5%B1%BF%E7%9A%84%E6%95%B0%E9%87%8F%E6%B7%B1%E6%90%9C.html#%E6%80%9D%E8%B7%AF,Mar 24,Medium,40,✅ Good job,O(VE),Done,GraphTheory,O(VE),https://kamacoder.com/problempage.php?pid=1171
+KamaCoder 100. 最大岛屿的面积,https://programmercarl.com/kamacoder/0100.%E5%B2%9B%E5%B1%BF%E7%9A%84%E6%9C%80%E5%A4%A7%E9%9D%A2%E7%A7%AF.html,Mar 25,Medium,30,✅ Good job,O(VE),Done,GraphTheory,O(VE),https://kamacoder.com/problempage.php?pid=1172
+KamaCoder 101. 孤岛的总面积,https://programmercarl.com/kamacoder/0101.%E5%AD%A4%E5%B2%9B%E7%9A%84%E6%80%BB%E9%9D%A2%E7%A7%AF.html,Mar 25,Medium,10,✅ Good job,O(VE),Done,GraphTheory,O(VE),https://kamacoder.com/problempage.php?pid=1173
+KamaCoder 102. 沉没孤岛,https://programmercarl.com/kamacoder/0102.%E6%B2%89%E6%B2%A1%E5%AD%A4%E5%B2%9B.html,Mar 25,Medium,45,🚩 Recommend Redo (Medium >40m),O(VE),Done,GraphTheory,O(VE),https://kamacoder.com/problempage.php?pid=1174
+KamaCoder 103. 高山流水,https://programmercarl.com/kamacoder/0103.%E6%B0%B4%E6%B5%81%E9%97%AE%E9%A2%98.html,Mar 26,Hard,100,🚩 Recommend Redo (Hard >50m),O(VE),Done,GraphTheory,O(VE),https://kamacoder.com/problempage.php?pid=1175
+KamaCoder 104. 建造最大岛屿,https://programmercarl.com/kamacoder/0104.%E5%BB%BA%E9%80%A0%E6%9C%80%E5%A4%A7%E5%B2%9B%E5%B1%BF.html#%E6%80%9D%E8%B7%AF,Mar 26,Hard,120,🚩 Recommend Redo (Hard >50m),O(VE),Done,GraphTheory,O(VE),https://kamacoder.com/problempage.php?pid=1176
+KamaCoder 106. 海岸线计算,https://programmercarl.com/kamacoder/0106.%E5%B2%9B%E5%B1%BF%E7%9A%84%E5%91%A8%E9%95%BF.html,Mar 27,Medium,20,✅ Good job,O(VE),Done,GraphTheory,O(VE),https://kamacoder.com/problempage.php?pid=1178
+KamaCoder 110. 字符串迁移,https://programmercarl.com/kamacoder/0110.%E5%AD%97%E7%AC%A6%E4%B8%B2%E6%8E%A5%E9%BE%99.html#%E6%80%9D%E8%B7%AF,Mar 27,Hard,100,🚩 Recommend Redo (Hard >50m),O(VE),Done,GraphTheory,O(m*n^2),https://kamacoder.com/problempage.php?pid=1183
+KamaCoder 105. 有向图的完全联通,https://programmercarl.com/kamacoder/0105.%E6%9C%89%E5%90%91%E5%9B%BE%E7%9A%84%E5%AE%8C%E5%85%A8%E5%8F%AF%E8%BE%BE%E6%80%A7.html,Mar 28,Medium,40,✅ Good job,O(V + E),Done,GraphTheory,O(V + E),https://kamacoder.com/problempage.php?pid=1177
+KamaCoder 107. 寻找存在的路线,https://programmercarl.com/kamacoder/0107.%E5%AF%BB%E6%89%BE%E5%AD%98%E5%9C%A8%E7%9A%84%E8%B7%AF%E5%BE%84.html#%E6%80%9D%E8%B7%AF,Mar 28,Easy,10,✅ Good job,O(n),Done,"GraphTheory, Union-Find Set",O(n),https://kamacoder.com/problempage.php?pid=1179
+KamaCoder 108. 多余的边,https://programmercarl.com/kamacoder/0108.%E5%86%97%E4%BD%99%E8%BF%9E%E6%8E%A5.html#%E6%80%9D%E8%B7%AF,Mar 29,Easy,20,✅ Good job,O(n),Done,"GraphTheory, Union-Find Set",O(n),https://kamacoder.com/problempage.php?pid=1181
+KamaCoder 109. 多余的边II,https://programmercarl.com/kamacoder/0109.%E5%86%97%E4%BD%99%E8%BF%9E%E6%8E%A5II.html,Mar 29,Hard,100,🚩 Recommend Redo (Hard >50m),O(n),Review-logic,"GraphTheory, Union-Find Set",O(n),https://kamacoder.com/problempage.php?pid=1182
+KamaCoder 53. 寻宝 (MST),https://programmercarl.com/kamacoder/0053.%E5%AF%BB%E5%AE%9D-prim.html#%E8%A7%A3%E9%A2%98%E6%80%9D%E8%B7%AF,Mar 30,Medium,40,✅ Good job,O(V + E),Done,"GraphTheory, MST",O(V^2),https://kamacoder.com/problempage.php?pid=1053
+KamaCoder 117. 软件构建 (TP sort),https://programmercarl.com/kamacoder/0117.%E8%BD%AF%E4%BB%B6%E6%9E%84%E5%BB%BA.html#%E6%8B%93%E6%89%91%E6%8E%92%E5%BA%8F%E7%9A%84%E8%83%8C%E6%99%AF,Mar 30,Medium,40,✅ Good job,O(V + E),Done,"GraphTheory, TopologicalSort",O(V + E),https://kamacoder.com/problempage.php?pid=1191
+KamaCoder 47. 参加科学大会 (Dijkstra),https://programmercarl.com/kamacoder/0047.%E5%8F%82%E4%BC%9Adijkstra%E6%9C%B4%E7%B4%A0.html#%E5%85%B6%E4%BB%96%E8%AF%AD%E8%A8%80%E7%89%88%E6%9C%AC,Mar 31,Medium,40,✅ Good job,O(V + E),Done,"GraphTheory, ShortestPath",O(ElogE),https://kamacoder.com/problempage.php?pid=1047
+KamaCoder 94. 城市间货物运输 I (Bellman-Ford),https://programmercarl.com/kamacoder/0094.%E5%9F%8E%E5%B8%82%E9%97%B4%E8%B4%A7%E7%89%A9%E8%BF%90%E8%BE%93I.html,Mar 31,Medium,30,✅ Good job,O(E),Done,"GraphTheory, ShortestPath",O(VE),https://kamacoder.com/problempage.php?pid=1152
+KamaCoder 95. 城市间货物运输 II (BF neg circle),,Apr 2,Medium,5,✅ Good job,O(V + E),Done,"GraphTheory, ShortestPath",O(VE),https://kamacoder.com/problempage.php?pid=1153
+KamaCoder 96. 城市间货物运输 III,https://programmercarl.com/kamacoder/0096.%E5%9F%8E%E5%B8%82%E9%97%B4%E8%B4%A7%E7%89%A9%E8%BF%90%E8%BE%93III.html#%E6%80%9D%E8%B7%AF,Apr 2,Medium,,⏳ 尚未计时,,Done,"GraphTheory, ShortestPath",,https://kamacoder.com/problempage.php?pid=1154
